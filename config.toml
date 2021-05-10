@@ -1,4 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "http://yeonjikim0316.github.io"
 languageCode = "en-us"
-title = "thisisPaperDoll"
-theme = "hugo-ink"
+title = "thisisPaperDoll - Today I Learnt"
+theme = "hugo-vitae"
+
+[markup.goldmark.renderer]
+unsafe= true
