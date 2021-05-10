@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Hugo on thisisPaperDoll - Today I Learnt</title>
+		<link>http://yeonjikim0316.github.io/tags/hugo/</link>
+		<description>Recent content in Hugo on yeonjikim0316.github.io</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>en-us</language>
+		<lastBuildDate>Mon, 10 May 2021 00:03:13 +0900</lastBuildDate>
+		
+		<atom:link href="http://yeonjikim0316.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>블로그 만들기 (Hugo &#43; Git)</title>
+			<link>http://yeonjikim0316.github.io/post/test/</link>
+			<pubDate>Mon, 10 May 2021 00:03:13 +0900</pubDate>
+			
+			<guid>http://yeonjikim0316.github.io/post/test/</guid>
+			<description>
+			
+				규칙적으로 무언가를 습득하던 교육과정이 끝나고 스스로 공부를 해야 하기에 블로그를 만들기로 했다. 깃 블로그를 이용코자 검색하던 중 언어는 Hugo로 결정
+0. Hugo를 이용한 블로그 3줄 요약  새로운 사이트를 생성하고 테마를 적용한 뒤 글을 작성 …
+			
+			</description>
+		</item>
+		
+	</channel>
+</rss>

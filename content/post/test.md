@@ -111,8 +111,8 @@ project 폴더에 있다는 것으로 가정한다.
 public을 먼저 push 할 것이다. 
 
 ```
-    $ cd public # public으로 경로 이동
-    $ git add * # 
+    $ cd public 
+    $ git add * 
     $ git commit -m "your commit message"
     $ git push origin master
 ``` 
@@ -164,3 +164,5 @@ config.toml에
       https://medium.com/deliverytechkorea/github-pages%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%9C%EC%9E%91-%ED%9B%84%EA%B8%B0-77ce4b5e5564
       https://cozydatascientist.tistory.com/78
       https://cozydatascientist.tistory.com/79?category=795512
+
+        git 오류시 : https://m.blog.naver.com/PostView.nhn?blogId=bestmic&logNo=220939712681&proxyReferer=https:%2F%2Fwww.google.com%2F
